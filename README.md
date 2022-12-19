@@ -1,7 +1,3 @@
-<img src="image.png"
-     alt="banner image"
-     style="float: left; margin-right: 10px;" />
-
 # 💫 About Me:
 I am a passionate software developer from Ethiopia. I am interested in backend development and Data Science.
 
